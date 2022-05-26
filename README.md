@@ -13,3 +13,6 @@
     ax[0].set_title("原始干扰数据", fontsize='11')
     ax[0].set_ylabel("$Z /nT$", fontsize='11')
 ```
+
+
+https://blog.csdn.net/feixs1/article/details/109250623?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-109250623-blog-118769688.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-109250623-blog-118769688.pc_relevant_antiscanv2&utm_relevant_index=1
